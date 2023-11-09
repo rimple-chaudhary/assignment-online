@@ -1,0 +1,13 @@
+.piechart-heading{
+    display: flex;
+    width: 388px;
+    height: 51px;
+    font-family: Space Grotesk;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+    padding-left: 20px;
+}

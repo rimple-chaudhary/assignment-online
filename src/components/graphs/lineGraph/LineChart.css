@@ -1,0 +1,58 @@
+.lineChart-heading {
+  display: flex;
+  width: 288px;
+  height: 31px;
+  top: 637px;
+  left: 522px;
+  font-family: Space Grotesk;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+  padding-left: 20px;
+}
+.lineChart-subheading {
+  width: 297px;
+  height: 27px;
+  top: 668px;
+ padding-left: 25px;
+  opacity: 0.8px;
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  color: #aebbda;
+  display: flex;
+  
+}
+.btn-grp {
+  width: 199px;
+  height: 31px;
+  top: 705px;
+  border-radius: 7px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.btn-graph {
+  width: 49px;
+  height: 25px;
+  top: 713px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #818181;
+  border: 2.5px solid #00000040;
+  box-shadow: 10px 10px 25px 0px #00000040;
+  background: #0918230d;
+}
+.linegraph-headings {
+  padding-top: 20px;
+}
+.lineData {
+  padding-top: 10px;
+}
