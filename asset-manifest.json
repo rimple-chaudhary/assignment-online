@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment-online/static/css/main.fc7e94d8.css",
+    "main.js": "/assignment-online/static/js/main.00171c09.js",
+    "static/js/787.788d1fb5.chunk.js": "/assignment-online/static/js/787.788d1fb5.chunk.js",
+    "index.html": "/assignment-online/index.html",
+    "main.fc7e94d8.css.map": "/assignment-online/static/css/main.fc7e94d8.css.map",
+    "main.00171c09.js.map": "/assignment-online/static/js/main.00171c09.js.map",
+    "787.788d1fb5.chunk.js.map": "/assignment-online/static/js/787.788d1fb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7e94d8.css",
+    "static/js/main.00171c09.js"
+  ]
+}
